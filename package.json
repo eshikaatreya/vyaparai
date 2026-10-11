@@ -1,0 +1,21 @@
+{
+  "name": "vyapar-ai",
+  "version": "1.0.0",
+  "description": "Smart Billing, AI Data Analyst, and Inventory Management system for small businesses",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "pos",
+    "billing",
+    "inventory",
+    "ai-analyst",
+    "retail",
+    "dark-mode",
+    "single-page-app"
+  ],
+  "author": "Mxhi-04",
+  "license": "MIT"
+}
